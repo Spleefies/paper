@@ -84,7 +84,7 @@ There are 39 icons with length 3.
 
 ### Histogram & Box Plot
 
-![Histogram & Box Plot](lucide-icon-name-stats/desmos-graph.svg)
+![Histogram & Box Plot](desmos-graph.svg)
 
 ## Word Count
 
