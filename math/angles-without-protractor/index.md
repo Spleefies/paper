@@ -18,7 +18,7 @@ How to draw and measure angles without a protractor.
  - Pencil
  - Ruler (or set square)
 
-## Drawing
+## Drawing 
 
 To draw angle $x^\circ$:
 1. Calculate $\tan(x)$.
@@ -53,7 +53,7 @@ To measure an angle:
 1. Extend both sides of the angle (for accuracy).
 2. Draw a line perpendicular to one side to form a right-angled triangle. 
 3. Using a ruler, measure the base and height of the triangle.
-4. The angle is equal to $\tan^{-1}\left(\frac{\text{height}}{\text{base}}\right)$
+4. The angle is equal to $\tan^{-1}\left(\frac{\text{base}}{\text{height}}\right)$
 
 ![](m1.svg)
 

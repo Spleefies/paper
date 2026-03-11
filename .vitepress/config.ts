@@ -2,10 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "/static/",
-  title: "Static",
-  titleTemplate: ':title',
-  description: "Static site",
+  base: "/paper/",
   markdown: {
     math: true
   },
